@@ -1,0 +1,70 @@
+:root {
+    --border-color: #dee2e6;
+    --background-color: #FFFFFF;
+    --font-color: #000000;
+}
+
+.header > h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.select {
+    padding: 2rem;
+}
+
+table, th, td {
+    padding: 3px;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+    background-color: coral;
+}
+
+tr:first-child td,
+tr td:first-child {
+    font-weight: bold;
+}
+
+a.navbar-brand {
+    font-size: 30px;
+}
+
+.panel {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .panel-header {
+    background-color: #76e6ca;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .panel-title {
+    margin: 0;
+    position: center;
+  }
+  
+  .panel-body {
+    padding: 10px;
+  }
+  
+  .plot {
+    margin-bottom: 40px; 
+  }
+  
+  .label {
+    margin-left: auto;
+  }
+  
+  
+  
+  
+  
+  

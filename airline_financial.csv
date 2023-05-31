@@ -1,0 +1,97 @@
+Year,Quarter,Airline_Id,UniqueCarrierName,NetIncome
+2022,2,20368,Allegiant Air,67289477
+2022,4,19805,American Airlines Inc.,337983643
+2022,4,19930,Alaska Airlines Inc.,169769000
+2022,4,20409,JetBlue Airways,-362086468
+2022,4,19790,Delta Air Lines Inc.,1580273000
+2022,4,20436,Frontier Airlines Inc.,-37760778
+2022,4,20368,Allegiant Air,66661205
+2022,4,19690,Hawaiian Airlines Inc.,-211113176
+2022,4,20398,Envoy Air,7362149
+2022,4,20416,Spirit Air Lines,-554150301
+2022,4,20304,SkyWest Airlines Inc.,-22515439
+2022,4,19393,Southwest Airlines Co.,539154000
+2022,4,20452,Republic Airline,74453717
+2022,1,19393,Southwest Airlines Co.,583473000
+2022,1,19790,Delta Air Lines Inc.,558978514
+2022,1,19930,Alaska Airlines Inc.,441024000
+2022,1,20368,Allegiant Air,154415854
+2022,1,20452,Republic Airline,141130730
+2022,1,20452,Republic Airline,15453637
+2022,1,20368,Allegiant Air,-1578820
+2022,1,20398,Envoy Air,-8780297
+2022,1,20304,SkyWest Airlines Inc.,-15273972
+2022,1,20304,SkyWest Airlines Inc.,-23858511
+2022,1,20398,Envoy Air,-36640336
+2022,1,19930,Alaska Airlines Inc.,-89902000
+2022,2,19805,American Airlines Inc.,-1668618442
+2022,2,19930,Alaska Airlines Inc.,255192000
+2022,2,20409,JetBlue Airways,-442039467
+2022,2,19790,Delta Air Lines Inc.,716676846
+2022,2,20436,Frontier Airlines Inc.,-128269002
+2022,2,19690,Hawaiian Airlines Inc.,-234232830
+2022,2,20398,Envoy Air,-43791957
+2022,2,20416,Spirit Air Lines,-319493414
+2022,2,20304,SkyWest Airlines Inc.,-37330207
+2022,2,19393,Southwest Airlines Co.,995867000
+2022,2,20452,Republic Airline,97146996
+2022,3,19805,American Airlines Inc.,-1409660383
+2022,3,19930,Alaska Airlines Inc.,134199000
+2022,3,20409,JetBlue Airways,-514621224
+2022,3,19790,Delta Air Lines Inc.,279448000
+2022,3,20436,Frontier Airlines Inc.,-130889693
+2022,3,20368,Allegiant Air,20989371
+2022,3,19690,Hawaiian Airlines Inc.,-253082143
+2022,3,20398,Envoy Air,4106045
+2022,3,20416,Spirit Air Lines,-370644106
+2022,3,20304,SkyWest Airlines Inc.,-16536855
+2022,3,19393,Southwest Airlines Co.,827057000
+2022,3,20452,Republic Airline,107453818
+2022,4,19805,American Airlines Inc.,854458960
+2022,4,19930,Alaska Airlines Inc.,58244000
+2022,4,20409,JetBlue Airways,23474921
+2022,4,19790,Delta Air Lines Inc.,927752000
+2022,4,20436,Frontier Airlines Inc.,39973442
+2022,4,20368,Allegiant Air,61358388
+2022,4,19690,Hawaiian Airlines Inc.,-49096313
+2022,4,20398,Envoy Air,12638733
+2022,4,20416,Spirit Air Lines,-270664431
+2022,4,20304,SkyWest Airlines Inc.,-33406255
+2022,4,19393,Southwest Airlines Co.,-220192000
+2022,4,20452,Republic Airline,1788778
+2022,1,20436,Frontier Airlines Inc.,-114880536
+2022,1,19690,Hawaiian Airlines Inc.,-120940030
+2022,1,20436,Frontier Airlines Inc.,-125898603
+2022,1,20409,JetBlue Airways,-190476124
+2022,1,20416,Spirit Air Lines,-194703259
+2022,1,19690,Hawaiian Airlines Inc.,-197009868
+2022,1,20409,JetBlue Airways,-254675096
+2022,1,19393,Southwest Airlines Co.,-277849000
+2022,1,20416,Spirit Air Lines,-554950379
+2022,1,19790,Delta Air Lines Inc.,-905584000
+2022,1,19805,American Airlines Inc.,-1577920764
+2022,1,19805,American Airlines Inc.,-2139856645
+2022,2,19805,American Airlines Inc.,522136848
+2022,2,19930,Alaska Airlines Inc.,143232000
+2022,2,20409,JetBlue Airways,-188113605
+2022,2,19790,Delta Air Lines Inc.,798789000
+2022,2,20436,Frontier Airlines Inc.,16407058
+2022,2,20368,Allegiant Air,10784089
+2022,2,19690,Hawaiian Airlines Inc.,-38415377
+2022,2,20398,Envoy Air,-2082211
+2022,2,20416,Spirit Air Lines,-52406086
+2022,2,20304,SkyWest Airlines Inc.,20589094
+2022,2,19393,Southwest Airlines Co.,760132000
+2022,2,20452,Republic Airline,33045291
+2022,3,19805,American Airlines Inc.,539308599
+2022,3,19930,Alaska Airlines Inc.,58195000
+2022,3,20409,JetBlue Airways,57227312
+2022,3,19790,Delta Air Lines Inc.,759316000
+2022,3,20436,Frontier Airlines Inc.,20739258
+2022,3,20368,Allegiant Air,-3902452
+2022,3,19690,Hawaiian Airlines Inc.,-2661456
+2022,3,20398,Envoy Air,5585924
+2022,3,20416,Spirit Air Lines,-36376525
+2022,3,20304,SkyWest Airlines Inc.,5575694
+2022,3,19393,Southwest Airlines Co.,277063000
+2022,3,20452,Republic Airline,24166011
