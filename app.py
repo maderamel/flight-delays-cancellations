@@ -102,4 +102,5 @@ def airline_delay_cause():
 
 
 if __name__ == '__main__':
+    force = False
     app.run(debug=True)
